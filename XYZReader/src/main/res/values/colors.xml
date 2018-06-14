@@ -23,4 +23,20 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="Black">#000</color>
+
+    <color name="primaryColor">#7e40f2</color>
+
+    <color name="primaryLightColor">#b570ff</color>
+
+    <color name="primaryDarkColor">#4307be</color>
+
+    <color name="secondaryColor">#dedede</color>
+
+    <color name="secondaryLightColor">#ffffff</color>
+
+    <color name="secondaryDarkColor">#acacac</color>
+
+    <color name="primaryTextColor">#ffffff</color>
+
+    <color name="secondaryTextColor">#000000</color>
 </resources>
