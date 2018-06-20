@@ -5,5 +5,7 @@
     <integer name="list_column_count">3</integer>
 
     <!-- detail -->
-    <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="detail_card_max_width">900dp</dimen>
+    <dimen name="margin_top_card_view">20dp</dimen>
+    <dimen name="card_width">900dp</dimen>
 </resources>

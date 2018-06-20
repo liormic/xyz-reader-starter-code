@@ -31,6 +31,7 @@
             android:paddingTop="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="4dp"
+            android:textSize="@dimen/article_title_text_size"
             android:textColor="@color/Black"
             android:ellipsize="end"
             android:maxLines="4" />
@@ -41,6 +42,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
+            android:textSize="@dimen/subtitle_text_size"
             android:paddingBottom="16dp"
             android:textColor="@color/secondaryDarkColor"
             android:maxLines="2"
